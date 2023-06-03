@@ -1,27 +1,44 @@
-# HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+# Projeto Web: Principais Conceitos de Criação de Páginas HTML e CSS
 
-Este repositório foi criado para armazenar os arquivos criados durante o curso de HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags, ministrado pela Alura.
+Este projeto consiste em um site que aborda os principais conceitos relacionados à criação de páginas web utilizando as tecnologias HTML e CSS. O objetivo é fornecer um guia introdutório e abrangente para desenvolvedores iniciantes e intermediários.
 
-Neste curso, aprendemos sobre os principais conceitos relacionados a criação de páginas web utilizando as tecnologias HTML e CSS. Entre os principais tópicos abordados, destacam-se:
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Principais Conceitos Web**
+| :label: Tecnologias | HTML e CSS
+| :rocket: URL         | https://url-deploy.com.br
 
-- Ambientes de desenvolvimento para web
-- Estrutura básica de um arquivo HTML
-- Principais tags HTML
-- Seletores e propriedades CSS
-- Organização de arquivos para web
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagens/screenshot.png#vitrinedev)
 
-## Como utilizar este repositório
+## Detalhes do projeto
 
-Todos os arquivos criados durante as aulas encontram-se organizados nas pastas `html` e `css`, de acordo com a sua respectiva linguagem. Você pode clonar este repositório para o seu computador e utilizá-lo como base para a criação de novos projetos utilizando HTML e CSS.
+Neste projeto, concentramos nossos esforços em apresentar os principais conceitos necessários para criar páginas web dinâmicas e atraentes. Abaixo estão os tópicos abordados:
 
-```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
+### Ambientes de Desenvolvimento para Web
 
-## Como executar os exemplos
+Exploramos diferentes ambientes de desenvolvimento populares para a criação de sites, como Visual Studio Code, Sublime Text, Atom e Brackets. Discutimos suas características, vantagens e recursos para ajudar os desenvolvedores a escolher o ambiente mais adequado às suas necessidades.
 
-Para executar os exemplos contidos neste repositório, basta abrir o arquivo HTML em um navegador web. É importante lembrar que os arquivos contidos na pasta `css` devem ser referenciados corretamente nos arquivos HTML.
+### Estrutura Básica de um Arquivo HTML
 
-## Conclusão
+Apresentamos a estrutura básica de um arquivo HTML, que consiste em elementos como `<html>`, `<head>` e `<body>`. Explicamos o papel de cada elemento e fornecemos um exemplo prático que os desenvolvedores podem utilizar como ponto de partida.
 
-Este curso é uma excelente opção para quem deseja iniciar seus estudos em desenvolvimento web utilizando as tecnologias HTML e CSS. Espero que os arquivos contidos neste repositório possam ser úteis para o seu aprendizado.
+### Principais Tags HTML
+
+Destacamos as tags HTML mais importantes para a criação de páginas web, como `<h1>` a `<h6>` para títulos, `<p>` para parágrafos, `<a>` para links, `<img>` para imagens e muitas outras. Cada tag é explicada em detalhes, incluindo exemplos de uso e atributos relevantes.
+
+### Seletores e Propriedades CSS
+
+Apresentamos os conceitos de seletores e propriedades CSS, que são fundamentais para estilizar e formatar elementos HTML. Explicamos como selecionar elementos com base em suas classes, IDs ou estrutura hierárquica e fornecemos exemplos práticos de aplicação de estilos utilizando propriedades como cor de fundo, tamanho de fonte e margens.
+
+### Organização de Arquivos para Web
+
+Demonstramos boas práticas para a organização de arquivos em um projeto web. Discutimos a estrutura de diretórios recomendada, separação de arquivos CSS e HTML, e a importância de manter um código limpo e bem estruturado.
+
+## Contribuição
+
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull request. Sua contribuição será muito apreciada!
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://github.com/seu-usuario/seu-repositorio/blob/main/LICENSE).
