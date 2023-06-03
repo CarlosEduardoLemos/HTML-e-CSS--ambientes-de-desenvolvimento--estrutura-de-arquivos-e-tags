@@ -6,10 +6,10 @@ Este projeto consiste em um site que aborda os principais conceitos relacionados
 | -------------  | --- |
 | :sparkles: Nome        | **Principais Conceitos Web**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/HTML-e-CSS--ambientes-de-desenvolvimento--estrutura-de-arquivos-e-tags/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagens/screenshot.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/HTML-e-CSS--ambientes-de-desenvolvimento--estrutura-de-arquivos-e-tags/main/imagens/Captura%20de%20tela%202023-06-03%20154251.png#vitrinedev)
 
 ## Detalhes do projeto
 
